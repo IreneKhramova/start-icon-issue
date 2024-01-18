@@ -1,0 +1,11 @@
+<resources>
+<!--    <style name="Theme.StartIconIssue" parent="Theme.Material3.DayNight.NoActionBar">-->
+<!--        <item name="editTextStyle">@style/Widget.Material3.TextInputEditText.OutlinedBox</item>-->
+<!--        <item name="textInputStyle">@style/Widget.Material3.TextInputLayout.OutlinedBox</item>-->
+<!--    </style>-->
+
+    <style name="Theme.StartIconIssue" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <item name="editTextStyle">@style/Widget.MaterialComponents.TextInputEditText.OutlinedBox</item>
+        <item name="textInputStyle">@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox</item>
+    </style>
+</resources>
